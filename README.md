@@ -33,8 +33,6 @@ Check out my work: [Portfolio](http://31.97.8.56:5000)
 ## 🔗 Connect with Me  
 
 📧 **Email:** omargabrielsalvatierragarcia@gmail.com  
-🐙 **GitHub:** [@YourUsername](https://github.com/YourUsername)  
-🌐 **Portfolio:** [31.97.8.56:5000](http://31.97.8.56:5000)  
 
 ---
 
