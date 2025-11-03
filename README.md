@@ -1,20 +1,20 @@
 # 👋 Hello, I'm Omar Salvatierra
 
-🎯 **Senior Python Developer | Full Stack Engineer | Automation Specialist**
+🎯 **Python Backend Developer | Linux Specialist | Automation Engineer**
 
-I design and build clean, scalable, and efficient software systems using **Python, Flask, Django, and modern JavaScript frameworks**.  
-My focus is on creating reliable backend architectures, automating complex workflows, and deploying cloud-ready web applications.
+I design and build scalable backend systems using **Python, Flask, FastAPI, and Linux-based environments**.  
+My focus is on creating reliable APIs, automating workflows, and deploying efficient web applications.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Core Stack:** Python (Flask, Django, FastAPI), JavaScript (React), SQL, Linux  
-- ☁️ **Infrastructure:** Docker, Nginx, CI/CD, AWS  
-- ⚙️ **Specialties:** Automation, Data Processing, REST APIs, System Integration  
+- 💻 **Core Stack:** Python (Flask, FastAPI, Django), Linux, SQL  
+- ☁️ **Infrastructure:** Docker, Kubernetes, Nginx, CI/CD (GitHub Actions)  
+- ⚙️ **Specialties:** Automation, Data Processing, REST APIs, XML Validation  
 - 🧠 **Other Tools:** Git, Pandas, OpenPyXL, Selenium, JSON/XML parsing  
 - 🎓 **Education:** Master’s in Government Auditing (in progress), B.Sc. in Business Management  
-- 🌍 **Languages:** Spanish (Native), English (Advanced), French (Advanced)
+- 🌍 **Languages:** Spanish (Native), English (Advanced), French (Intermediate)
 
 ---
 
@@ -22,34 +22,32 @@ My focus is on creating reliable backend architectures, automating complex workf
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| **Audit Automation System** | Python automation for financial audits with Selenium and async processing. | Python, JSON, Selenium |
-| **Sales Management System** | Full-stack app for inventory and sales with QR scanning and reporting. | Django, React, PostgreSQL |
-| **ERP Integration Module** | POS and stock synchronization for enterprise clients. | Python, REST APIs |
-| **XML Data Processing** | High-performance XML validator and extractor for SAT CFDI. | Python, lxml, Multiprocessing |
+| **ValidaSAT** | Mass XML validator for CFDI using SAT API integration. | Python, Flask, lxml |
+| **Audit Automation System** | Automated public-account audit pipelines. | Python, Selenium, AsyncIO |
 
-👉 Explore more in my [Portfolio Website](https://omar-xyz.shop)  
+👉 Explore more in my [Portfolio Website](https://omar-xyz.shop)
 
 ---
 
 ## 💼 Experience
 
-- **Senior Python Developer – OFS (Audit and Fiscal Oversight)**  
+- **Python Developer – OFS (Audit and Fiscal Oversight)**  
   *Sep 2024 – Present*  
-  Automation of fiscal account processes and public-sector data pipelines.
+  Developed Python automation pipelines for fiscal and audit processes.
 
-- **Full Stack Developer – Tornillera Central S.A. de C.V.**  
+- **Backend Developer – Tornillera Central S.A. de C.V.**  
   *Apr 2023 – Sep 2024*  
-  Developed sales and inventory control systems using Django and React.
+  Built inventory and sales systems using Django and React.
 
-- **Python Developer – Comerzializador Plugar S.A. de C.V.**  
+- **Python Developer – Comercializadora Plugar S.A. de C.V.**  
   *Jan 2018 – May 2022*  
-  Delivered custom Python-based ERP and automation tools.
+  Created automation tools for ERP integration and business data processing.
 
 ---
 
 ## 🧾 Portfolio & Resume
 
-🖥️ Check my full portfolio: [Portfolio Website](https://omar-xyz.shop)  
+🖥️ Visit my portfolio: [Portfolio Website](https://omar-xyz.shop)  
 📄 Download my CV: [resume.pdf](https://omar-xyz.shop/resume)
 
 ---
@@ -64,3 +62,4 @@ My focus is on creating reliable backend architectures, automating complex workf
 
 > _"I build reliable Python systems that automate, scale, and last."_  
 > — **Omar Salvatierra**
+
